@@ -44,7 +44,7 @@ n[0,1]=0
 l[0,0]=0
 l[0,1]=0
 
-alpha=1
+secret.alpha=1
 bheta=-1
 gama=0.3 
 delta=.5
